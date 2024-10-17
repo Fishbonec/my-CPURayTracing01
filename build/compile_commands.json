@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/chentengjie/dev/cpp/CPUPathTracing/build/thirdparty/glm/glm",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/glm.dir/includes_CXX.rsp -g -o CMakeFiles\\glm.dir\\detail\\glm.cpp.obj -c C:\\Users\\chentengjie\\dev\\cpp\\CPUPathTracing\\thirdparty\\glm\\glm\\detail\\glm.cpp",
+  "file": "C:/Users/chentengjie/dev/cpp/CPUPathTracing/thirdparty/glm/glm/detail/glm.cpp",
+  "output": "thirdparty/glm/glm/CMakeFiles/glm.dir/detail/glm.cpp.obj"
+},
+{
+  "directory": "C:/Users/chentengjie/dev/cpp/CPUPathTracing/build/source",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CPUPathTracing.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CPUPathTracing.dir\\src\\film.cpp.obj -c C:\\Users\\chentengjie\\dev\\cpp\\CPUPathTracing\\source\\src\\film.cpp",
+  "file": "C:/Users/chentengjie/dev/cpp/CPUPathTracing/source/src/film.cpp",
+  "output": "source/CMakeFiles/CPUPathTracing.dir/src/film.cpp.obj"
+},
+{
+  "directory": "C:/Users/chentengjie/dev/cpp/CPUPathTracing/build/source",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CPUPathTracing.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CPUPathTracing.dir\\src\\main.cpp.obj -c C:\\Users\\chentengjie\\dev\\cpp\\CPUPathTracing\\source\\src\\main.cpp",
+  "file": "C:/Users/chentengjie/dev/cpp/CPUPathTracing/source/src/main.cpp",
+  "output": "source/CMakeFiles/CPUPathTracing.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/chentengjie/dev/cpp/CPUPathTracing/build/source",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CPUPathTracing.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CPUPathTracing.dir\\src\\thread_pool.cpp.obj -c C:\\Users\\chentengjie\\dev\\cpp\\CPUPathTracing\\source\\src\\thread_pool.cpp",
+  "file": "C:/Users/chentengjie/dev/cpp/CPUPathTracing/source/src/thread_pool.cpp",
+  "output": "source/CMakeFiles/CPUPathTracing.dir/src/thread_pool.cpp.obj"
+}
+]
